@@ -1,4 +1,4 @@
-## RandoCommentApp
+## Flask-Login
 --->Build With Flask, SQlAlchemy and Bootstrap...!
 
 ### Requirements
@@ -8,7 +8,7 @@ Download and install Python 3.8.10 or Above make sure to check the box Add Pytho
 
 ### Installation
           
-Navigate to your current project directory for this case it will be **RandoCommentApp**. <br>
+Navigate to your current project directory for this case it will be **Flask-Login**. <br>
           
 ### 1. Create an Virtual environment
           
@@ -16,13 +16,13 @@ Depending on your operating system,make a virtual environment to avoid messing w
 
 **Windows**
           
-```cd pythonlogin
+```cd Flask-Login
 py -3 -m venv venv
 ```
             
 **macOS/Linux**
           
-```cd pythonlogin
+```cd Flask-Login
 python3 -m venv venv
 ```
 
